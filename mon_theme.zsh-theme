@@ -1,4 +1,4 @@
-# AVIT ZSH Theme
+# ZSH Theme
 
 PROMPT='%{$fg[red]%}┌─[%{$reset_color%}%D{%I:%M:%S}%{$fg[red]%}]─[%{$reset_color%}$(_user_host):${_current_dir}$(git_prompt_info) $(_ruby_version)
 %{$fg[red]%}└─►%{$reset_color%}'
